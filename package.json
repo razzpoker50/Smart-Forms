@@ -1,0 +1,55 @@
+{
+  "name": "smart-forms",
+  "version": "1.0.0",
+  "description": "Basic smart forms Ui",
+  "main": "js-build/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/razzpoker50/Smart-Forms.git"
+  },
+  "keywords": [
+    "forms",
+    "smart"
+  ],
+  "author": "Sushanth && Maulik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/razzpoker50/Smart-Forms/issues"
+  },
+  "homepage": "https://github.com/razzpoker50/Smart-Forms#readme",
+  "devDependencies": {
+    "browserify": "^12.0.1",
+    "browserify-shim": "^3.8.11",
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-jshint": "^1.12.0",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-mocha-phantomjs": "^0.10.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "mocha": "^2.3.3"
+  },
+  "dependencies": {
+    "backbone": "^1.2.3",
+    "browserify": "^12.0.1",
+    "browserify-shim": "^3.8.11",
+    "chai": "^3.4.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-browserify": "^0.5.1",
+    "gulp-jshint": "^1.12.0",
+    "gulp-less": "^3.0.3",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-mocha-phantomjs": "^0.10.1",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.4.2",
+    "react": "^0.14.2",
+    "react.backbone": "^0.6.0"
+  }
+}
